@@ -1,0 +1,6 @@
+order_id,customer_name,amount_spent,product
+101,Alice,249.99,Laptop
+102,Bob,19.99,Mouse
+103,Charlie,59.49,Keyboard
+104,David,699.0,Smartphone
+105,Emma,120.75,Monitor
